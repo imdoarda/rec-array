@@ -1,3 +1,6 @@
+# ÍNDICE
+[DESCRIÇÃO](#come%C3%A7ando)
+[EXPLICAÇÃO PASSO A PASSO](#explica%C3%A7%C3%A3o-passo-a-passo)
 # PROJETO DE RECUPERAÇÃO USANDO ARRAY
 
     Esse projeto de recuperação usa Array para organizar melhor a parte interna de uma loja, informando o nome e o valor.
