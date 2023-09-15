@@ -1,6 +1,8 @@
 # ÍNDICE
-°[DESCRIÇÃO](#come%C3%A7ando) 
-°[EXPLICAÇÃO PASSO A PASSO](#explica%C3%A7%C3%A3o-passo-a-passo)
+°[DESCRIÇÃO](#come%C3%A7ando)  
+°[EXPLICAÇÃO PASSO A PASSO](#explica%C3%A7%C3%A3o-passo-a-passo)  
+°[FONTES](#fontes)  
+°[AUTORES](#autores)
 
 # PROJETO DE RECUPERAÇÃO USANDO ARRAY
 
