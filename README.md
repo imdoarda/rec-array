@@ -42,7 +42,13 @@ Para excluir alguma linha da tabela, basta apertar o botão "excluir" e a linha 
 ![image](https://github.com/imdoarda/rec-array/assets/127868962/35546331-3c91-4bfb-a907-2fb5b6a52c76)
 
 
-Essa foi uma explicação passo a passo de como o site funciona, grata por ler.
+## FONTES
+
+https://www.alura.com.br/artigos/escrever-bom-readme
+
+
+## AUTORES
+    Maria Eduarda Mendes
 
 
 
