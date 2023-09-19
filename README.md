@@ -40,9 +40,7 @@ Caso a pessoa utilizando o site precise editar alguma informação, basta aperta
 
 ``EXCLUIR OS DADOS:``
 Para excluir alguma linha da tabela, basta apertar o botão "excluir" e a linha será apagada.
-![Captura de tela 2023-08-28 155020](https://github.com/imdoarda/rec-array/assets/127868962/5a6a2bb9-c7b2-4475-9709-c96a8a253bb9)
-![image](https://github.com/imdoarda/rec-array/assets/127868962/35546331-3c91-4bfb-a907-2fb5b6a52c76)
-
+![video](20230919-1349-58.4316449.mp4)
 
 ## FONTES
 
