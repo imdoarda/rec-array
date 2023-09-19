@@ -46,7 +46,7 @@ Para excluir alguma linha da tabela, basta apertar o botão "excluir" e a linha 
 
 ## FONTES
 
-https://www.alura.com.br/artigos/escrever-bom-readme
+[Alura](https://www.alura.com.br/artigos/escrever-bom-readme )- Como escrever um README incrível no seu Github
 
 
 ## AUTORES
