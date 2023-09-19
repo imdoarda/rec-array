@@ -27,20 +27,20 @@ Para que o arquivamento do produto seja realizado, é necessário informar o nom
 ![image](https://github.com/imdoarda/rec-array/assets/127868962/cf22fbca-2724-46ea-bf19-b74d8840fd38)
 
 Caso algum dos campos não seja preenchido, essa notificação aparece em pop up:
-![video](pop-up.gif)
+![gif](pop-up.gif)
 
 
 ``SALVAR OS DADOS:``
 Para salvar os dados é necessário apertar o botão "salvar", assim que isso é feito, a tabela começa a ser criada.
-![video](salvar.gif)
+![gif](salvar.gif)
 
 ``EDITAR DADOS:``
 Caso a pessoa utilizando o site precise editar alguma informação, basta apertar o botão "editar".
-![video](pop-up.gif)
+![gif](editar.gif)
 
 ``EXCLUIR OS DADOS:``
 Para excluir alguma linha da tabela, basta apertar o botão "excluir" e a linha será apagada.
-![video](Gravando-2023-09-19-105308.gif)
+![gif](excluir.gif)
 
 ## FONTES
 
